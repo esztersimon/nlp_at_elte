@@ -21,4 +21,4 @@ Nyelvtudományi Kutatóközpont 206-os szoba
 
 ## Órai anyagok
 
-[1.óra]()
+[1.óra](nlp_at_elte.pdf)
