@@ -23,5 +23,5 @@ Nyelvtudományi Kutatóközpont 206-os szoba
 
 * 1. óra: Bevezetés, bemutatkozás [szlájdok](nlp_at_elte.pdf)
 * 2. óra: 
-  * Nyelvtechnológiai alkalmazások bemutatása: chatGPT, Duolingo
+  * Nyelvtechnológiai alkalmazások bemutatása: [chatGPT](Chat_GPT.pptx), [Duolingo](https://docs.google.com/document/d/1UpUkHnkx_8_gB4gPkTUgEBQ0_AJp8VgM7NEV7wzRLzc/edit?usp=sharing)
   * Technikai bevezető: Google Colab, parancssor, Python, Markdown [notebook](https://colab.research.google.com/drive/1Cgg9TROh0kcs0vQR6MerF1XmFCc8TANZ?usp=share_link)
