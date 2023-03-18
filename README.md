@@ -25,4 +25,6 @@ Nyelvtudományi Kutatóközpont 206-os szoba
 * 2. óra: 
   * Nyelvtechnológiai alkalmazások bemutatása: [chatGPT](Chat_GPT.pptx), [Duolingo](https://docs.google.com/document/d/1UpUkHnkx_8_gB4gPkTUgEBQ0_AJp8VgM7NEV7wzRLzc/edit?usp=sharing)
   * Technikai bevezető: Google Colab, parancssor, Python, Markdown [notebook](https://colab.research.google.com/drive/1Cgg9TROh0kcs0vQR6MerF1XmFCc8TANZ?usp=share_link)
-* 3. óra: Nyelvhierarchia, automaták [szlájdok](nlp_at_elte3.pdf)
+* 3. óra: 
+  * Rasa ismertető [szlájdok](https://drive.google.com/file/d/1ZNEwXYBnge24KAxidL3Hp_DzOvOMWF6l/view?usp=sharing) [beszélgetés Kate-tel](https://drive.google.com/file/d/1_uznAYgmNrlmKrOSdu-DWYSACpTpZx04/view?usp=sharing)
+  * Nyelvhierarchia, automaták [szlájdok](nlp_at_elte3.pdf)
