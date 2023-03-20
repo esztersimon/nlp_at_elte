@@ -28,3 +28,4 @@ Nyelvtudományi Kutatóközpont 206-os szoba
 * 3. óra: 
   * Rasa ismertető [szlájdok](https://drive.google.com/file/d/1ZNEwXYBnge24KAxidL3Hp_DzOvOMWF6l/view?usp=sharing) [beszélgetés Kate-tel](https://drive.google.com/file/d/1_uznAYgmNrlmKrOSdu-DWYSACpTpZx04/view?usp=sharing)
   * Nyelvhierarchia, automaták [szlájdok](nlp_at_elte3.pdf)
+* 4. óra: Bevezetés a korpuszok csodálatos világába [szlájdok](nlp_at_elte4.pdf)
