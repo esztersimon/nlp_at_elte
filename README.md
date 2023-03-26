@@ -30,7 +30,7 @@ Nyelvtudományi Kutatóközpont 206-os szoba
   * Nyelvhierarchia, automaták [szlájdok](nlp_at_elte3.pdf)
 * 4. óra: Bevezetés a korpuszok csodálatos világába [szlájdok](nlp_at_elte4.pdf)
 * 5. óra: 
- * Automatás házi megbeszélése
- * TMK bemutató
- * Regex gyakorlás [notebook](https://colab.research.google.com/drive/1WR-p3wOvA_cejp4qBsCWv0o_P5qiIlBk?usp=sharing)
- * Korpuszannotáció, annotációs szintek [szlájdok](nlp_at_elte5.pdf)
+  * Automatás házi megbeszélése
+  * TMK bemutató
+  * Regex gyakorlás [notebook](https://colab.research.google.com/drive/1WR-p3wOvA_cejp4qBsCWv0o_P5qiIlBk?usp=sharing)
+  * Korpuszannotáció, annotációs szintek [szlájdok](nlp_at_elte5.pdf)
