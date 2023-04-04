@@ -31,7 +31,7 @@ Nyelvtudományi Kutatóközpont 206-os szoba
 * 4. óra: Bevezetés a korpuszok csodálatos világába [szlájdok](nlp_at_elte4.pdf)
 * 5. óra: 
   * Automatás házi megbeszélése
-  * TMK bemutató
+  * TMK bemutató [szlájdok](tmk_roviden.pdf)
   * Regex gyakorlás [notebook](https://colab.research.google.com/drive/1WR-p3wOvA_cejp4qBsCWv0o_P5qiIlBk?usp=sharing) [terminál history](terminal_history.txt) 
 
 ## Házi feladatok
