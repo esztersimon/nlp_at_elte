@@ -1,0 +1,44 @@
+505  cat stopwords.txt | grep -E '^[a-z]' | less
+  506  cat stopwords.txt | grep -E '^[óüöúőűáéí]' | less
+  507  cat stopwords.txt | grep -E '^[a-zóüöúőűáéí]' | less
+  509  cat stopwords.txt | grep -E '^[^a]' | less
+  510  cat stopwords.txt | grep -E '[^a-z]' | less
+  512  cat stopwords.txt | grep -Ev '^[a]' | less
+  515  cat stopwords.txt | grep -E 'az|ez' | less
+  516  cat stopwords.txt | grep -E '(az)|(ez)' | less
+  517  cat stopwords.txt | sed -E s/'a(bb)a'/'e\1e'/g | less
+  519  cat stopwords.txt | sed -E s/'^a(bb)a$'/'e\1e'/g | less
+  520  cat stopwords.txt | sed -E s/'^a(bb)an?$'/'e\1e'/g | less
+  521  cat stopwords.txt | sed -E s/'^a(bb)a(n?)$'/'e\1e\2'/g | less
+  522  cat stopwords.txt | grep -E '^a.*' | less
+  523  cat stopwords.txt | grep -E '^a*' | less
+  524  cat stopwords.txt | grep -E '^a+' | less
+  525  cat stopwords.txt | grep -E 'b{1,2}' | less
+  526  cat stopwords.txt | grep -E 'b{2,}' | less
+  527  cat stopwords.txt | grep -E 'b{3,}' | less
+  528  cat stopwords.txt | grep -E 'b{2}' | less
+  529  cat stopwords.txt | grep -E 'b{,2}' | less
+  531  cat stopwords.txt | grep -E 'b{0,2}' | less
+  532  cat stopwords.txt | grep -E '[:lower:]' | less
+  533  cat stopwords.txt | grep -Ev '^[:lower:]$' | less
+  534  cat stopwords.txt | grep -Ev '[:lower:]' | less
+  535  cat stopwords.txt | grep -E '^a' | less
+  536  cat stopwords.txt | grep -E '^a' | wc | less
+  537  cat stopwords.txt | grep -E '^a' | wc -l | less
+  538  cat stopwords.txt | grep -E '^a' | less
+  539  cat stopwords.txt | grep -E '^a' | sort | uniq -c | less
+  541  cat stopwords.txt | grep -E '^a' | sort | uniq -c | sort -nr | less
+  542  cat stopwords.txt | grep -E '^a' | sort | uniq | less
+  543  cat stopwords.txt | grep -E '^a' | sort | uniq | wc -l | less
+  544  cat stopwords.txt | grep -E '^[a-zóüöúőűáéí]{3}$' | less
+  546  cat stopwords.txt | grep -E '^[a-zóüöúőűáéí][a-zóüöúőűáéí][a-zóüöúőűáéí]$' | less
+  547  cat stopwords.txt | grep -E '^[.][.][.]$' | less
+  548  cat stopwords.txt | grep -E '^...$' | less
+  550  cat kant.txt | sed -E s/'[:punct:]'/''/g | less
+  551  cat kant.txt | sed -E s/'[,?.:!]'/''/g | less
+  552  cat kant.txt | sed -E s/'[,?.:!]'/''/g | tr ' ' '\n' | less
+  554  cat kant.txt | sed -E s/'[,?.:!]'/''/g | tr ' ' '\n' | grep -Ev '^$' | less
+  556  cat kant.txt | sed -E s/'[,?.:!]'/''/g | tr ' ' '\n' | grep -Ev '^$' | sort | uniq -c | sort -nr | less
+  559  cat kant.txt | sed -E s/'[,?.:!]'/''/g | tr ' ' '\n' | grep -Ev '^$' | sort | uniq -c | sort -nr | sed -E s/'^ +[0-9]+ '/''/g | less
+  560  cat kant.txt | sed -E s/'[,?.:!]'/''/g | tr ' ' '\n' | grep -Ev '^$' | sort | uniq -c | sort -nr | sed -E s/'^ +[0-9]+ '/''/g | sort | less
+  562  cat kant.txt | sed -E s/'[,?.:!]'/''/g | tr ' ' '\n' | grep -Ev '^$' | sort | uniq -c | sort -nr | sed -E s/'^ +[0-9]+ '/''/g | join - stopwords.txt | less
