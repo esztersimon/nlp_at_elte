@@ -33,6 +33,9 @@ Nyelvtudományi Kutatóközpont 206-os szoba
   * Automatás házi megbeszélése
   * TMK bemutató [szlájdok](tmk_roviden.pdf)
   * Regex gyakorlás [notebook](https://colab.research.google.com/drive/1WR-p3wOvA_cejp4qBsCWv0o_P5qiIlBk?usp=sharing) [terminál history](terminal_history.txt) 
+* 6. óra:
+  * Korpuszannotáció, annotációs szintek [szlájdok](nlp_at_elte61.pdf)
+  * Szintaktikai elemzés [jegyzet](nlp_at_elte62.pdf)
 
 ## Házi feladatok
 
