@@ -39,6 +39,8 @@ Nyelvtudományi Kutatóközpont 206-os szoba
 * 7. óra:
   * Crawling [notebook](https://colab.research.google.com/drive/11_LhdeSd2tnKgOcIQtHrcR9-XgMcOQHI?usp=sharing)
   * Gépi tanulás áttekintés [szlájdok](nlp_at_elte7.pdf)
+* 8. óra:
+  * Vektorszemantika, szóbeágyazások [slides](https://web.stanford.edu/~jurafsky/slp3/slides/6_Vector_Apr18_2021.pdf)
 
 ## Házi feladatok
 
