@@ -41,6 +41,8 @@ Nyelvtudományi Kutatóközpont 206-os szoba
   * Gépi tanulás áttekintés [szlájdok](nlp_at_elte7.pdf)
 * 8. óra:
   * Vektorszemantika, szóbeágyazások [slides](https://web.stanford.edu/~jurafsky/slp3/slides/6_Vector_Apr18_2021.pdf)
+* 9-10. óra:
+  * Neurális hálók és neurális nyelvmodellek [slides](nlp_at_elte9-10.pdf)
 
 ## Házi feladatok
 
