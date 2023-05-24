@@ -44,6 +44,10 @@ Nyelvtudományi Kutatóközpont 206-os szoba
 * 9-10. óra:
   * N-gram nyelvmodellezésről kiselőadás [slides](N-gram%20nyelvmodellek.pptx)
   * Neurális hálók és neurális nyelvmodellek [slides](nlp_at_elte9-10.pdf)
+* 11. óra: Meghívott előadók:
+  * Szűcs Kata (OSZK DBK): [HTR, azaz a kézírásfelismertetés](Nyelvtudom%C3%A1nyi_ea_Transkribus_HTR.pdf)
+  * Orosz György: 
+  * Móra György (Superlinked): 
 
 ## Házi feladatok
 
