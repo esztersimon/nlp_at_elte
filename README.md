@@ -42,6 +42,7 @@ Nyelvtudományi Kutatóközpont 206-os szoba
 * 8. óra:
   * Vektorszemantika, szóbeágyazások [slides](https://web.stanford.edu/~jurafsky/slp3/slides/6_Vector_Apr18_2021.pdf)
 * 9-10. óra:
+  * N-gram nyelvmodellezésről kiselőadás [slides](N-gram%20nyelvmodellek.pptx)
   * Neurális hálók és neurális nyelvmodellek [slides](nlp_at_elte9-10.pdf)
 
 ## Házi feladatok
