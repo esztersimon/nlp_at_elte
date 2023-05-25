@@ -46,7 +46,7 @@ Nyelvtudományi Kutatóközpont 206-os szoba
   * Neurális hálók és neurális nyelvmodellek [slides](nlp_at_elte9-10.pdf)
 * 11. óra: Meghívott előadók:
   * Szűcs Kata (OSZK DBK): [HTR, azaz a kézírásfelismertetés](Nyelvtudom%C3%A1nyi_ea_Transkribus_HTR.pdf)
-  * Orosz György: 
+  * Orosz György: [Legal NLP applications](Legal_NLP_applications.pdf)
   * Móra György (Superlinked): 
 
 ## Házi feladatok
