@@ -47,7 +47,7 @@ Nyelvtudományi Kutatóközpont 206-os szoba
 * 11. óra: Meghívott előadók:
   * Szűcs Kata (OSZK DBK): [HTR, azaz a kézírásfelismertetés](Nyelvtudom%C3%A1nyi_ea_Transkribus_HTR.pdf)
   * Orosz György: [Legal NLP applications](Legal_NLP_applications.pdf)
-  * Móra György (Superlinked): 
+  * Móra György (Superlinked): [Nyelvfeldolgozásszerű problémák az iparban](https://docs.google.com/presentation/d/1AXc0r1PaCO3v8734TVxZL7XUbrXx3fWmYF-CToRKRV8/edit?usp=sharing)
 
 ## Házi feladatok
 
